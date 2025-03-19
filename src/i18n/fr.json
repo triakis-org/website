@@ -1,0 +1,74 @@
+{
+  "HomeHero": {
+    "title": "Investir au cœur de l’économie française",
+    "content": {
+      "p1": "Acquérir, gérer et développer des PME (1\u00a0à\u00a05M€ de CA) à forte rentabilité grâce à l’innovation technologique.",
+      "p2": "Nous croyons que chaque entreprise a une histoire unique et un potentiel de croissance considérable. En unissant savoir-faire          managérial, expertise technologique et vision stratégique, nous optimisons les performances de ces PME tout en préservant ce qui fait leur identité."
+    },
+    "cta": "Rejoignez la révolution technologique des PME"
+  },
+  "HomeAcquire": {
+    "title": "Acquisition",
+    "p1": {
+      "title": "Identification ciblée\u00a0:",
+      "text": "Une analyse continue du marché et nos modèles d’IA propriétaires, nous permettent de sélectionner les meilleures  entreprises."
+    },
+    "p2": {
+      "title": "Thèse de marché\u00a0:",
+      "text": "Nous privilégions des entreprises établies en valorisant des flux de trésorerie solides et une clientèle fidèle."
+    },
+    "p3": {
+      "title": "Perspectives technologiques\u00a0:",
+      "text": "Avant toute acquisition, nous évaluons le potentiel d’automatisation et l’impact d’outils digitaux."
+    }
+  },
+  "HomeManaging": {
+    "title": "Gestion",
+    "p1": {
+      "title": "Accompagnement sur le terrain\u00a0:",
+      "text": "Nous travaillons main dans la main avec les équipes en place, en respectant leur culture et leur savoir-faire."
+    },
+    "p2": {
+      "title": "Optimisation des processus\u00a0:",
+      "text": "Nous déployons nos solutions logicielles et nos tableaux de bord afin de piloter en temps réel et de fluidifier l’administration, la comptabilité et la logistique."
+    },
+    "p3": {
+      "title": "Suvi sur mesure\u00a0:",
+      "text": "Chaque entreprise bénéficie de son expérience et de son implantation régionale. La réussite de nos projets se fonde sur des échanges et des partenariats avec les acteurs de l’économie locale."
+    }
+  },
+  "HomeGrowth": {
+    "title": "Développement",
+    "p1": {
+      "title": "Compréhension profonde\u00a0:",
+      "text": "Chaque société doit être prise en main pendant 6 à 12 mois afin de cerner ses enjeux et de définir ses priorités."
+    },
+    "p2": {
+      "title": "Stratégies de croissance éprouvées\u00a0:",
+      "text": "Une fois la société stabilisée, nous identifions des leviers de croissance (extension de marchés, diversification de l’offre, etc.)."
+    },
+    "p3": {
+      "title": "Création de valeur durable\u00a0:",
+      "text": "L’objectif final est de générer des rendements stables pour nos investisseurs et de pérenniser l’activité."
+    }
+  },
+  "HomeInvesting": {
+    "title": "Pourquoi investir avec nous\u00a0?",
+    "p1": {
+      "title": "Solidité financière\u00a0:",
+      "text": "Des entreprises locales et rentables, sélectionnées avec soin."
+    },
+    "p2": {
+      "title": "Transformation numérique\u00a0:",
+      "text": "L’automatisation, l’IA et les outils d’analyse de données renforcent la compétitivité et la pérennité."
+    },
+    "p3": {
+      "title": "Engagement humain\u00a0:",
+      "text": "Au-delà de la technologie, nous plaçons l’humain au cœur de chaque projet pour maintenir la confiance des salariés et des clients."
+    },
+    "p4": {
+      "title": "Transparence et reporting\u00a0:",
+      "text": "Des comptes rendus réguliers et des indicateurs de performance clairs pour nos investisseurs."
+    }
+  }
+}

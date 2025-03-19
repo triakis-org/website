@@ -1,0 +1,74 @@
+{
+  "HomeHero": {
+    "title": "Invest in the Heart of the French Economy",
+    "content": {
+      "p1": "Acquire, manage, and develop highly profitable SMBs (with annual revenues ranging from €1M to €5M) through technological innovation.",
+      "p2": "We believe that every company has a unique story and significant growth potential. By combining managerial know-how, technological expertise, and strategic vision, we optimize each SME’s performance while preserving what makes it unique."
+    },
+    "cta": "Join the SMB Technology Revolution"
+  },
+  "HomeAcquire": {
+    "title": "Acquisition",
+    "p1": {
+      "title": "Targeted Identification:",
+      "text": "Continuous market analysis and our proprietary AI models allow us to select the best companies."
+    },
+    "p2": {
+      "title": "Market Thesis:",
+      "text": "We focus on established businesses, emphasizing strong cash flows and a loyal customer base."
+    },
+    "p3": {
+      "title": "Technological Outlook:",
+      "text": "Before any acquisition, we assess the potential for automation and the impact of digital tools."
+    }
+  },
+  "HomeManaging": {
+    "title": "Management",
+    "p1": {
+      "title": "On-Site Support:",
+      "text": "We work hand in hand with existing teams, respecting their culture and know-how."
+    },
+    "p2": {
+      "title": "Process Optimization:",
+      "text": "We deploy our software solutions and dashboards for real-time management, streamlining administration, accounting, and logistics."
+    },
+    "p3": {
+      "title": "Tailored Follow-Up:",
+      "text": "Each company benefits from its own experience and regional presence. The success of our projects is based on ongoing dialogue and partnerships with local economic players."
+    }
+  },
+  "HomeGrowth": {
+    "title": "Development",
+    "p1": {
+      "title": "In-Depth Understanding:",
+      "text": "Each company is closely managed for 6 to 12 months to identify its key challenges and set its priorities."
+    },
+    "p2": {
+      "title": "Proven Growth Strategies:",
+      "text": "Once the company is stabilized, we identify growth drivers (market expansion, product diversification, etc.)."
+    },
+    "p3": {
+      "title": "Sustainable Value Creation:",
+      "text": "Our ultimate goal is to generate stable returns for our investors and ensure long-term viability."
+    }
+  },
+  "HomeInvesting": {
+    "title": "Why Invest with Us?",
+    "p1": {
+      "title": "Financial Stability:",
+      "text": "Local and profitable companies, carefully selected."
+    },
+    "p2": {
+      "title": "Digital Transformation:",
+      "text": "Automation, AI, and data analytics tools reinforce competitiveness and sustainability."
+    },
+    "p3": {
+      "title": "Human Commitment:",
+      "text": "Beyond technology, we place people at the heart of each project to maintain employee and customer trust."
+    },
+    "p4": {
+      "title": "Transparency and Reporting:",
+      "text": "Regular updates and clear performance indicators for our investors."
+    }
+  }
+}
